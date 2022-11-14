@@ -1,5 +1,8 @@
-### Hi there 👋
+### Greetings 🌱
 
+After over 20 years working on the business and operations side of digital businesses and organisations, I've decided it's time to learn how to code myself.
+
+Currently learning Python, with a focus on pandas.
 <!--
 **fionadeans/fionadeans** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +17,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
